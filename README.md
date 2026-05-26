@@ -30,7 +30,7 @@ The matrix makes these domain boundaries tangible by letting you see which attac
 
 ## How to Use
 
-Open `OSI_AttackMatrix.html` in any modern browser. No build tools, no dependencies, no server required — it's a single self-contained HTML file.
+Open `osi-attack explainer.html` in any modern browser. No build tools, no dependencies, no server required — it's a single self-contained HTML file.
 
 - Click any populated cell to open the detail panel
 - Scroll horizontally across attack categories
