@@ -2,7 +2,7 @@
 
 An interactive cybersecurity study tool that maps attack types across all seven OSI model layers, showing where and how each attack operates at the network stack level.
 
-<img src="./osi-attack.png" alt="OSI Attack Tool" width="200">
+<img src="./osi-attack.png" alt="OSI Attack Tool" width="500">
 
 ## What It Does
 
