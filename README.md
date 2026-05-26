@@ -38,7 +38,7 @@ Open `OSI_AttackMatrix.html` in any modern browser. No build tools, no dependenc
 
 ### Live Version
 
-This tool is also hosted at [ubritsa.com/tools/OSI_AttackMatrix.html](https://ubritsa.com/tools/OSI_AttackMatrix.html) as part of the Goblin Eaters Cyber Cavern.
+This tool is also hosted at [ubritsa.com/tools/osi-attack-explainer.html](https://ubritsa.com/tools/osi-attack-explainer) as part of the Goblin Eaters Cyber Cavern.
 
 ## Tech Stack
 
